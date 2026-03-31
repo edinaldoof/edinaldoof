@@ -13,7 +13,7 @@
 </div>
 
 <!-- ABOUT ME -->
-## 🧑‍💻 Quem sou eu
+## Quem sou eu
 
 ```yaml
 nome: Edinaldo Filho
@@ -31,7 +31,7 @@ foco_atual: Machine Learning aplicado a processos administrativos
 <br/>
 
 <!-- CREDENTIALS -->
-## 🎓 Formação & Credenciais
+## Formação & Credenciais
 
 <div align="center">
 
@@ -67,7 +67,7 @@ foco_atual: Machine Learning aplicado a processos administrativos
 <br/>
 
 <!-- WHAT I DO -->
-## 🔭 O que eu faço
+## O que eu faço
 
 <table>
   <tr>
@@ -89,7 +89,7 @@ foco_atual: Machine Learning aplicado a processos administrativos
 <br/>
 
 <!-- TECH STACK -->
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -105,7 +105,7 @@ foco_atual: Machine Learning aplicado a processos administrativos
 <br/>
 
 <!-- GITHUB STATS -->
-## ⚡ GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <a href="https://github.com/edinaldoof">
@@ -143,7 +143,7 @@ foco_atual: Machine Learning aplicado a processos administrativos
 <br/>
 
 <!-- SNAKE ANIMATION -->
-## 🐍 Minhas Contribuições
+## Minhas Contribuições
 
 <div align="center">
   <picture>
@@ -153,47 +153,10 @@ foco_atual: Machine Learning aplicado a processos administrativos
   </picture>
 </div>
 
-<!--
-  ⚠️ PARA ATIVAR A SNAKE ANIMATION:
-  1. No seu repo edinaldoof/edinaldoof, crie o arquivo: .github/workflows/snake.yml
-  2. Cole o conteúdo abaixo:
-
-  name: Generate Snake
-  on:
-    schedule:
-      - cron: "0 */12 * * *"
-    workflow_dispatch:
-  jobs:
-    build:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: edinaldoof
-            outputs: |
-              dist/github-snake.svg
-              dist/github-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  3. Vá em Actions no repo e rode manualmente a primeira vez.
--->
-
-<br/>
-
-<!-- DEV QUOTE -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</div>
-
 <br/>
 
 <!-- CONNECT -->
-## 🤝 Vamos conversar?
+## Vamos conversar?
 
 <div align="center">
 
