@@ -7,7 +7,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=70&lines=Transformando+dados+em+decis%C3%B5es+estrat%C3%A9gicas+%F0%9F%93%8A;Automatizando+processos+com+intelig%C3%AAncia+%F0%9F%A4%96;Do+SQL+ao+Machine+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&random=false&width=750&height=45&lines=Transformando+dados+em+decis%C3%B5es+estrat%C3%A9gicas+%F0%9F%93%8A;Automatizando+processos+com+intelig%C3%AAncia+%F0%9F%A4%96;Do+SQL+ao+Machine+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 </div>
