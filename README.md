@@ -7,7 +7,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&random=false&width=750&height=45&lines=Transformando+dados+em+decis%C3%B5es+estrat%C3%A9gicas+%F0%9F%93%8A;Automatizando+processos+com+intelig%C3%AAncia+%F0%9F%A4%96;Do+SQL+ao+Machine+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&random=false&width=750&height=45&lines=Transformando+dados+em+decis%C3%B5es+estrat%C3%A9gicas;Automatizando+processos+com+intelig%C3%AAncia;Do+SQL+ao+Machine+Learning" alt="Typing SVG" />
 </a>
 
 </div>
@@ -69,18 +69,32 @@ foco_atual: Machine Learning aplicado a processos administrativos
 <br/>
 
 <!-- GITHUB STATS -->
-## 📈 GitHub Stats
+## ⚡ GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=edinaldoof&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF"/>
+  <a href="https://github.com/edinaldoof">
+    <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=edinaldoof&theme=2077"/>
+  </a>
   &nbsp;&nbsp;
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edinaldoof&layout=compact&langs_count=7&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9"/>
+  <a href="https://github.com/edinaldoof">
+    <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=edinaldoof&theme=2077"/>
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edinaldoof&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
+  <a href="https://github.com/edinaldoof">
+    <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edinaldoof&theme=2077" alt="Profile Details" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/edinaldoof">
+    <img src="https://streak-stats.demolab.com?user=edinaldoof&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak" />
+  </a>
 </div>
 
 <br/>
@@ -88,13 +102,6 @@ foco_atual: Machine Learning aplicado a processos administrativos
 <!-- ACTIVITY GRAPH -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=edinaldoof&bg_color=0D1117&color=6C63FF&line=3B82F6&point=FFFFFF&area=true&hide_border=true&area_color=6C63FF" alt="Activity Graph" />
-</div>
-
-<br/>
-
-<!-- TROPHIES -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=edinaldoof&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10" alt="Trophies" />
 </div>
 
 <br/>
