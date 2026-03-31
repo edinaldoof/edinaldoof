@@ -30,6 +30,42 @@ foco_atual: Machine Learning aplicado a processos administrativos
 
 <br/>
 
+<!-- CREDENTIALS -->
+## 🎓 Formação & Credenciais
+
+<div align="center">
+
+<a href="#">
+  <img src="https://img.shields.io/badge/MBA-Data_Science_e_Analytics-6C63FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01IDEzLjE4djRMMyAyMGg2bC0xLjgyLTIuODJMMiAxNGgzLjE4em03LTEzTDEgMTFoNmw1IDV2MTFIM2wxMC0yMHoiLz48L3N2Zz4=&logoColor=white&labelColor=1a1a2e"/>
+</a>
+&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/USP%2FEsalq-Universidade_de_São_Paulo-FFB800?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAzTDEgOWwxMSA2bDkuMDktNS0uMDEtLjAxTDIxIDloLjAxVjE2bDIgMVY5TDEyIDN6bTAgMTIuNTVMMyAxMC4zVjE2bDkgNWw5LTV2LTUuN0wxMiAxNS41NXoiLz48L3N2Zz4=&logoColor=white&labelColor=1a1a2e"/>
+</a>
+&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/Bacharel-Administração_UFPI-06B6D4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAzTDEgOWwxMSA2bDkuMDktNS0uMDEtLjAxTDIxIDloLjAxVjE2bDIgMVY5TDEyIDN6bTAgMTIuNTVMMyAxMC4zVjE2bDkgNWw5LTV2LTUuN0wxMiAxNS41NXoiLz48L3N2Zz4=&logoColor=white&labelColor=1a1a2e"/>
+</a>
+
+</div>
+
+<br/>
+
+<!-- HIGHLIGHTS -->
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/+2_anos-Experiência_em_TI-0D1117?style=flat-square&labelColor=6C63FF&color=0D1117"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Power_BI-Dashboards_em_Produção-0D1117?style=flat-square&labelColor=3B82F6&color=0D1117"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/LLMs-Sistemas_com_IA_Generativa-0D1117?style=flat-square&labelColor=06B6D4&color=0D1117"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/SQL_Server-Queries_Otimizadas-0D1117?style=flat-square&labelColor=CC2927&color=0D1117"/>
+
+</div>
+
+<br/>
+
 <!-- WHAT I DO -->
 ## 🔭 O que eu faço
 
@@ -106,6 +142,56 @@ foco_atual: Machine Learning aplicado a processos administrativos
 
 <br/>
 
+<!-- SNAKE ANIMATION -->
+## 🐍 Minhas Contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edinaldoof/edinaldoof/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edinaldoof/edinaldoof/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/edinaldoof/edinaldoof/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<!--
+  ⚠️ PARA ATIVAR A SNAKE ANIMATION:
+  1. No seu repo edinaldoof/edinaldoof, crie o arquivo: .github/workflows/snake.yml
+  2. Cole o conteúdo abaixo:
+
+  name: Generate Snake
+  on:
+    schedule:
+      - cron: "0 */12 * * *"
+    workflow_dispatch:
+  jobs:
+    build:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: edinaldoof
+            outputs: |
+              dist/github-snake.svg
+              dist/github-snake-dark.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v3
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  3. Vá em Actions no repo e rode manualmente a primeira vez.
+-->
+
+<br/>
+
+<!-- DEV QUOTE -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
+
+<br/>
+
 <!-- CONNECT -->
 ## 🤝 Vamos conversar?
 
@@ -113,10 +199,16 @@ foco_atual: Machine Learning aplicado a processos administrativos
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edinaldo-filho/)
 &nbsp;
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edinaldofilho2021@ufpi.edu.br)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edinaldojof@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edinaldoof)
 
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=edinaldoof&color=6C63FF&style=for-the-badge&label=VISITANTES+DO+PERFIL" alt="Profile views" />
 </div>
 
 <br/>
