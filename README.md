@@ -1,180 +1,100 @@
 <div align="center">
 
-<!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3B82F6,100:06B6D4&height=220&section=header&text=Edinaldo%20Filho&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Analista%20Administrativo%20|%20Data%20Science%20|%20Automações&descSize=18&descAlignY=55&descColor=E0E7FF&animation=fadeIn" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=600&lines=Edinaldo+Filho;Full+Stack+Engineer+%7C+Systems+Architect;MBA+Data+Science+%E2%80%94+USP%2FEsalq" alt="Typing SVG" />
 
-<br/>
+Construo plataformas que digitalizam operações institucionais complexas.
 
-<!-- TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&random=false&width=750&height=45&lines=Transformando+dados+em+decis%C3%B5es+estrat%C3%A9gicas;Automatizando+processos+com+intelig%C3%AAncia;Do+SQL+ao+Machine+Learning" alt="Typing SVG" />
-</a>
-
-</div>
-
-<!-- ABOUT ME -->
-## Quem sou eu
-
-```yaml
-nome: Edinaldo Filho
-cargo: Analista Administrativo — Setor de TI
-empresa: Fadex
-formação:
-  - MBA em Data Science e Analytics — USP/Esalq
-  - Bacharelado em Administração — UFPI
-localização: Teresina, PI 🇧🇷
-foco_atual: Machine Learning aplicado a processos administrativos
-```
-
-> *"Dados sem análise são apenas números. Com a pergunta certa, viram estratégia."*
-
-<br/>
-
-<!-- CREDENTIALS -->
-## Formação & Credenciais
-
-<div align="center">
-
-<a href="#">
-  <img src="https://img.shields.io/badge/MBA-Data_Science_e_Analytics-6C63FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01IDEzLjE4djRMMyAyMGg2bC0xLjgyLTIuODJMMiAxNGgzLjE4em03LTEzTDEgMTFoNmw1IDV2MTFIM2wxMC0yMHoiLz48L3N2Zz4=&logoColor=white&labelColor=1a1a2e"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/-edinaldo--filho-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edinaldo-filho/)
 &nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/USP%2FEsalq-Universidade_de_São_Paulo-FFB800?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAzTDEgOWwxMSA2bDkuMDktNS0uMDEtLjAxTDIxIDloLjAxVjE2bDIgMVY5TDEyIDN6bTAgMTIuNTVMMyAxMC4zVjE2bDkgNWw5LTV2LTUuN0wxMiAxNS41NXoiLz48L3N2Zz4=&logoColor=white&labelColor=1a1a2e"/>
-</a>
-&nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/Bacharel-Administração_UFPI-06B6D4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAzTDEgOWwxMSA2bDkuMDktNS0uMDEtLjAxTDIxIDloLjAxVjE2bDIgMVY5TDEyIDN6bTAgMTIuNTVMMyAxMC4zVjE2bDkgNWw5LTV2LTUuN0wxMiAxNS41NXoiLz48L3N2Zz4=&logoColor=white&labelColor=1a1a2e"/>
-</a>
+[![Email](https://img.shields.io/badge/-edinaldofilho2021@ufpi.edu.br-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:edinaldofilho2021@ufpi.edu.br)
 
 </div>
 
-<br/>
+---
 
-<!-- HIGHLIGHTS -->
-<div align="center">
-  
-  <img src="https://img.shields.io/badge/+2_anos-Experiência_em_TI-0D1117?style=flat-square&labelColor=6C63FF&color=0D1117"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Power_BI-Dashboards_em_Produção-0D1117?style=flat-square&labelColor=3B82F6&color=0D1117"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/LLMs-Sistemas_com_IA_Generativa-0D1117?style=flat-square&labelColor=06B6D4&color=0D1117"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/SQL_Server-Queries_Otimizadas-0D1117?style=flat-square&labelColor=CC2927&color=0D1117"/>
+<img align="right" width="280" src="https://github-readme-stats.vercel.app/api?username=edinaldoof&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&bg_color=00000000&icon_color=2563eb&text_color=555&hide=contribs"/>
 
-</div>
+### Sobre
 
-<br/>
+Analista de TI na **FADEX** — Fundação de Apoio da UFPI, Teresina-PI.
 
-<!-- WHAT I DO -->
-## O que eu faço
+Projeto e mantenho a **plataforma de gestão institucional** que opera em produção com **12+ módulos** Next.js independentes, cobrindo financeiro, projetos, RH, automações bancárias e IA.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📊 Dados & Analytics</h3>
-      <p>
-        Dashboards interativos no Power BI, relatórios gerenciais, ETL e tratamento de dados com Python e SQL para suporte à tomada de decisão.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 Automações & IA</h3>
-      <p>
-        Sistemas sob demanda com LLMs, fluxos automatizados com Power Automate e scripts Python que eliminam trabalho manual repetitivo.
-      </p>
-    </td>
-  </tr>
-</table>
+**Formação:** MBA Data Science (USP/Esalq) · Administração (UFPI)
 
-<br/>
+<br clear="right"/>
 
-<!-- TECH STACK -->
-## Tech Stack
+---
 
-<div align="center">
+### Projetos
 
-| Categoria | Tecnologias |
-|:---------:|:-----------:|
-| **Linguagens** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Data Science** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white) |
-| **Bancos de Dados** | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Ferramentas** | ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+> A maioria é privado por conter dados institucionais.
 
-</div>
+#### Plataforma FADEX &nbsp; `monorepo · 12+ apps · produção`
 
-<br/>
+Monorepo Turborepo com Next.js 16, React 19, TypeScript, Prisma, PostgreSQL + SQL Server.
 
-<!-- GITHUB STATS -->
-## GitHub Stats
+| Módulo | Descrição |
+|--------|-----------|
+| Portal & Auth | SSO Google OAuth, proxy multi-zone, dashboard unificado |
+| Projetos | Acompanhamento de projetos acadêmicos, vigência, notificações |
+| Financeiro | Entradas/saídas, análise por instituição/projeto |
+| Ressarcimentos | Organograma React Flow, cálculo proporcional |
+| Extratos BB | Integração API Banco do Brasil, automação via Chrome remoto |
+| Credenciamentos | Workflow institucional com validação de documentos |
+| Faturas NFSe | Emissão e gestão de notas fiscais |
+| Disparo E-mails | Motor batch com rate limiting, templates, agendamento |
+| Viagens | Extração de dados via Gemini AI, PDF profissional |
+| Certidões | Emissão automática ~30 tipos via Infosimples |
+| Protocolos | Dashboard executivo, timeline, análise por setor |
+| GED | Gestão de documentos + Google Drive (API Go) |
 
-<div align="center">
-  <a href="https://github.com/edinaldoof">
-    <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=edinaldoof&theme=2077"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/edinaldoof">
-    <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=edinaldoof&theme=2077"/>
-  </a>
-</div>
+#### Outros Projetos
 
-<br/>
+| Projeto | Stack | Descrição |
+|---------|-------|-----------|
+| **SIGEM** | Next.js, TypeScript | Sistema de gestão de eventos e módulos |
+| **CatalisaICT** | Next.js, TypeScript | Catalogação de iniciativas ICT |
+| **Telégrafo** | Next.js, Prisma, PostgreSQL | Disparo de mensagens WhatsApp |
+| **Ralph AI** | TypeScript | Agente supervisor que orquestra sub-agentes para manutenção de código |
+| **PDF Bank Converter** | Python | Converte relatórios bancários PDF em dados estruturados |
+| **Doc fade1** | Python | Documentação automatizada do banco legado SAGI |
+| **Notas FADEX** | Next.js, Prisma | Gestão de notas fiscais com integração Google Drive |
+| **Viagens (v1)** | React, Firebase | Primeira versão do sistema de viagens com IA Gemini |
+| **Processos FADEX** | React, Recharts | Dashboard analítico de protocolos (20k+ registros) |
 
-<div align="center">
-  <a href="https://github.com/edinaldoof">
-    <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edinaldoof&theme=2077" alt="Profile Details" />
-  </a>
-</div>
+---
 
-<br/>
-
-<div align="center">
-  <a href="https://github.com/edinaldoof">
-    <img src="https://streak-stats.demolab.com?user=edinaldoof&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak" />
-  </a>
-</div>
-
-<br/>
-
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edinaldoof&bg_color=0D1117&color=6C63FF&line=3B82F6&point=FFFFFF&area=true&hide_border=true&area_color=6C63FF" alt="Activity Graph" />
-</div>
-
-<br/>
-
-<!-- SNAKE ANIMATION -->
-## Minhas Contribuições
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edinaldoof/edinaldoof/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edinaldoof/edinaldoof/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/edinaldoof/edinaldoof/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
-<br/>
-
-<!-- CONNECT -->
-## Vamos conversar?
+### Stack
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edinaldo-filho/)
-&nbsp;
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edinaldojof@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edinaldoof)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=fff)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=fff)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=fff)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=fff)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=000)
 
 </div>
 
-<br/>
+---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=edinaldoof&color=6C63FF&style=for-the-badge&label=VISITANTES+DO+PERFIL" alt="Profile views" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edinaldoof&theme=minimal&area=true&hide_border=true&bg_color=00000000" width="95%" alt="Activity" />
 </div>
 
-<br/>
-
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3B82F6,100:06B6D4&height=120&section=footer"/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=edinaldoof&color=2563eb&style=flat-square&label=visitors" />
+</div>
