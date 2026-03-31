@@ -23,7 +23,7 @@ Transformo operações institucionais complexas em plataformas digitais que func
 ---
 
 <!-- ABOUT ME -->
-## 🧑‍💻 Quem sou eu
+## Quem sou eu
 
 ```yaml
 nome: Edinaldo Filho
@@ -59,7 +59,7 @@ foco_atual: Plataformas full stack com IA aplicada a processos institucionais
 ---
 
 <!-- WHAT I DO -->
-## ⚡ O que eu faço
+## O que eu faço
 
 <table>
   <tr>
@@ -97,7 +97,7 @@ foco_atual: Plataformas full stack com IA aplicada a processos institucionais
 ---
 
 <!-- FORMAÇÃO -->
-## 🎓 Formação & Credenciais
+## Formação & Credenciais
 
 <div align="center">
 
@@ -120,7 +120,7 @@ foco_atual: Plataformas full stack com IA aplicada a processos institucionais
 ---
 
 <!-- PROJETOS -->
-## 🚀 Projetos
+## Projetos
 
 > A maioria é privado por conter dados institucionais.
 
@@ -150,7 +150,7 @@ Monorepo **Turborepo** com Next.js 16, React 19, TypeScript strict, Prisma, Post
 </details>
 
 <details>
-<summary><b>🏗️ SIGEM</b> — Sistema de Gestão de Emendas Parlamentares &nbsp; <code>privado</code></summary>
+<summary><b> SIGEM</b> — Sistema de Gestão de Emendas Parlamentares &nbsp; <code>privado</code></summary>
 <br/>
 
 Plataforma **SaaS multi-tenant** para gestão do ciclo completo de emendas parlamentares municipais — da indicação à prestação de contas. Cada município opera como tenant isolado com banco próprio via subdomínio.
@@ -167,7 +167,7 @@ Plataforma **SaaS multi-tenant** para gestão do ciclo completo de emendas parla
 </details>
 
 <details>
-<summary><b>📋 CatalisaICT</b> — Plataforma de Gestão de Bolsistas e Projetos ICT &nbsp; <code>privado</code></summary>
+<summary><b> CatalisaICT</b> — Plataforma de Gestão de Bolsistas e Projetos ICT &nbsp; <code>privado</code></summary>
 <br/>
 
 Sistema completo para gestão de programas de bolsas de inovação científica e tecnológica. Dois perfis de acesso: **gestor** e **bolsista**.
@@ -182,7 +182,7 @@ Sistema completo para gestão de programas de bolsas de inovação científica e
 </details>
 
 <details>
-<summary><b>📨 Telégrafo</b> — Disparo de Mensagens WhatsApp &nbsp; <code>privado</code></summary>
+<summary><b> Telégrafo</b> — Disparo de Mensagens WhatsApp &nbsp; <code>privado</code></summary>
 <br/>
 
 Sistema de disparo de mensagens WhatsApp com suporte a múltiplos provedores simultâneos.
@@ -195,7 +195,7 @@ Sistema de disparo de mensagens WhatsApp com suporte a múltiplos provedores sim
 </details>
 
 <details>
-<summary><b>🤖 Ralph AI</b> — Agente Supervisor Autônomo &nbsp; <code>privado</code></summary>
+<summary><b> Ralph AI</b> — Agente Supervisor Autônomo &nbsp; <code>privado</code></summary>
 <br/>
 
 Agente de IA supervisor que orquestra sub-agentes para manutenção autônoma do monorepo FADEX.
@@ -227,7 +227,7 @@ Agente de IA supervisor que orquestra sub-agentes para manutenção autônoma do
 ---
 
 <!-- TECH STACK -->
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -248,7 +248,7 @@ Agente de IA supervisor que orquestra sub-agentes para manutenção autônoma do
 ---
 
 <!-- GITHUB STATS -->
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <a href="https://github.com/edinaldoof">
@@ -288,7 +288,7 @@ Agente de IA supervisor que orquestra sub-agentes para manutenção autônoma do
 ---
 
 <!-- SNAKE ANIMATION -->
-## 🐍 Minhas Contribuições
+##  Minhas Contribuições
 
 <div align="center">
   <picture>
@@ -303,7 +303,7 @@ Agente de IA supervisor que orquestra sub-agentes para manutenção autônoma do
 ---
 
 <!-- CONNECT -->
-## 💬 Vamos conversar?
+## Vamos conversar?
 
 <div align="center">
 
