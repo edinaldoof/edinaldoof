@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3B82F6,100:06B6D4&height=220&section=header&text=Edinaldo%20Filho&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Analista%20Administrativo%20|%20Data%20Science%20|%20Automações&descSize=18&descAlignY=55&descColor=E0E7FF&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3B82F6,100:06B6D4&height=220&section=header&text=Edinaldo%20Filho&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Analista%20de%20Desenvolvimento%20Full%20Stack%20Sênior%20|%20Data%20Science%20|%20Automações&descSize=18&descAlignY=55&descColor=E0E7FF&animation=fadeIn" />
 
 <br/>
 
