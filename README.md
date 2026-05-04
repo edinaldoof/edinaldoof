@@ -27,7 +27,7 @@ Transformo operações institucionais complexas em plataformas digitais que func
 
 ```yaml
 nome: Edinaldo Filho
-cargo: Responsável pela TI
+cargo: Analista de Desenvolvimento Full Stack Sênior
 empresa: FADEX — Fundação de Apoio da UFPI
 formação:
   - MBA em Data Science e Analytics — USP/Esalq
