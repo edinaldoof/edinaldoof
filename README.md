@@ -7,7 +7,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&random=false&width=750&height=45&lines=Transformando+dados+em+decis%C3%B5es+estrat%C3%A9gicas;Automatizando+processos+com+intelig%C3%AAncia;12%2B+apps+em+produ%C3%A7%C3%A3o+%7C+200k%2B+linhas+de+c%C3%B3digo;Do+SQL+ao+Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&random=false&width=750&height=45&lines=Transformando+dados+em+decis%C3%B5es+estrat%C3%A9gicas;Automatizando+processos+com+intelig%C3%AAncia;12%2B+apps+em+produ%C3%A7%C3%A3o+%7C+200k%2B+linhas+de+c%C3%B3digo;Do+SQL+ao+Machine+Learning" alt="Typing SVG" />
 </a>
 
 Transformo operações institucionais complexas em plataformas digitais que funcionam em produção.
@@ -252,26 +252,6 @@ Agente de IA supervisor que orquestra sub-agentes para manutenção autônoma do
 
 <div align="center">
   <a href="https://github.com/edinaldoof">
-    <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=edinaldoof&theme=2077"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/edinaldoof">
-    <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=edinaldoof&theme=2077"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/edinaldoof">
-    <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edinaldoof&theme=2077" alt="Profile Details" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/edinaldoof">
     <img src="https://streak-stats.demolab.com?user=edinaldoof&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak" />
   </a>
 </div>
@@ -280,7 +260,7 @@ Agente de IA supervisor que orquestra sub-agentes para manutenção autônoma do
 
 <!-- ACTIVITY GRAPH -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edinaldoof&bg_color=0D1117&color=6C63FF&line=3B82F6&point=FFFFFF&area=true&hide_border=true&area_color=6C63FF" alt="Activity Graph" />
+  <img src="https://ghchart.rshah.org/6C63FF/edinaldoof" alt="Activity Graph" />
 </div>
 
 <br/>
